@@ -1,1 +1,2 @@
-Testing my app for Hackathon
+Testing my app for Hackathon.
+Making dummy commits.
